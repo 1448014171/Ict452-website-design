@@ -1,4 +1,4 @@
- <style>
+
         * {
           box-sizing: border-box;
         }
@@ -81,11 +81,10 @@
   .footer{ position: fixed;
     right: 0;
     bottom: 0;
-    width: 5%;
+    width: 100%;
     background-color: red;
     color: white;
     text-align: center;
      
      
      }
-  </style>

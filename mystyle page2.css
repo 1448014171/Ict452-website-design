@@ -1,4 +1,4 @@
-<style>
+
 * {
   box-sizing: border-box;
 }
@@ -47,22 +47,25 @@ body {
   background-color: #b44242;
   }
 div.gallery {
-  margin: 5px;
+  margin: 10px;
   border: 1px solid #ccc;
-  float: left;
-  width: 290px;
+  float:left;
+  width: 300px;
 }
 
 body{background-color: beige;}
 .footer{ position: fixed;
 right: 0;
 bottom: 0;
-width: 5%;
+width: 100%;
 background-color: red;
 color: white;
 text-align: center;
 
 
 }
-h2{font-size: medium;text-align: right;}
-</style>
+h2{
+  
+  font-size:larger;text-align: left;
+
+}
